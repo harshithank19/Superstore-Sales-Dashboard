@@ -76,7 +76,7 @@ superstore-sales-dashboard/
 | Name | USN |
 |------|-----|
 | Harshitha N K | 1GA22CS071 |
-| Shreya N | 1GA22CS153 |
-| Swara Shetty M | 1GA22CS173 |
 | Swathi K N | 1GA22CS174 |
+| Swara Shetty M | 1GA22CS173 |
+| Shreya N | 1GA22CS153 |
 
